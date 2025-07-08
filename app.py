@@ -201,7 +201,7 @@ st.markdown(
     <hr style="margin-top: 50px;">
     <div style="text-align: center; font-size: 0.9em; color: gray;">
         Built with 🧠 by <strong>Iloyeka Arman Ndjoli</strong> |
-        <a href="https://github.com/Ndjoli/master-data-cleaner" target="_blank">GitHub</a> |
+        <a href="https://github.com/Ndjoli/Master-Data-Cleaner-and-insight-" target="_blank">GitHub</a> |
         <a href="https://www.linkedin.com/in/arman-ndjoli97" target="_blank">LinkedIn</a>
     </div>
     """,
